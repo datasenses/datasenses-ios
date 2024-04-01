@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'Datasenses-iOS'
-    s.version          = '0.1.0'
+    s.version          = '0.1.1'
     s.summary          = 'Datasenses SDK for iOS.'
     s.homepage         = 'https://datasenses.io'
     s.license          = { :type => 'MIT', :file => 'LICENSE.md' }
@@ -10,5 +10,5 @@ Pod::Spec.new do |s|
     s.ios.vendored_frameworks = 'Datasenses.xcframework'
     s.swift_version = '5.0'
     s.framework    = 'CoreTelephony'
-    s.dependency = 'FirebaseAnalytics'
+    s.dependency  'FirebaseAnalytics'
   end
