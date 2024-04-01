@@ -2545,24 +2545,33 @@
       },
       {
         "kind": "Import",
-        "name": "FirebaseCore",
-        "printedName": "FirebaseCore",
+        "name": "Firebase",
+        "printedName": "Firebase",
         "declKind": "Import",
-        "moduleName": "Datasenses"
+        "moduleName": "Datasenses",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
         "name": "FirebaseInstallations",
         "printedName": "FirebaseInstallations",
         "declKind": "Import",
-        "moduleName": "Datasenses"
+        "moduleName": "Datasenses",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
         "name": "FirebaseAnalytics",
         "printedName": "FirebaseAnalytics",
         "declKind": "Import",
-        "moduleName": "Datasenses"
+        "moduleName": "Datasenses",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",

@@ -4,90 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/FBLPromises.framework/FBLPromises_Privacy.bundle/Info.plist</key>
-		<data>
-		IT7+9o2IyLG7BdVRKG3jEeVQ+nI=
-		</data>
-		<key>Frameworks/FBLPromises.framework/FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
-		</data>
-		<key>Frameworks/FBLPromises.framework/Info.plist</key>
-		<data>
-		gfquvMru0AO+owJTxraNbW9vtlQ=
-		</data>
-		<key>Frameworks/FirebaseAnalytics.framework/Info.plist</key>
-		<data>
-		YShfR4TzdxOOHuKOmElLyAElkKo=
-		</data>
-		<key>Frameworks/FirebaseCore.framework/FirebaseCore_Privacy.bundle/Info.plist</key>
-		<data>
-		+aCrRp8C4kExXv0S4RGE6bMvIK0=
-		</data>
-		<key>Frameworks/FirebaseCore.framework/FirebaseCore_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		sa2OhFlqdCIyz9oV7fUdDKWzFL0=
-		</data>
-		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
-		<data>
-		WvDnfLgOuJwJI/TlQu5lapg6Irg=
-		</data>
-		<key>Frameworks/FirebaseCoreInternal.framework/FirebaseCoreInternal_Privacy.bundle/Info.plist</key>
-		<data>
-		CIMprltpkk4T19Hjzoj06eCLP8A=
-		</data>
-		<key>Frameworks/FirebaseCoreInternal.framework/FirebaseCoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		ifoThrqbbqoLG4yjAruMQRaf0Dw=
-		</data>
-		<key>Frameworks/FirebaseCoreInternal.framework/Info.plist</key>
-		<data>
-		ktyKppa4FCWgxvXHXCEcCQcjMqc=
-		</data>
-		<key>Frameworks/FirebaseInstallations.framework/FirebaseInstallations_Privacy.bundle/Info.plist</key>
-		<data>
-		LO+0HZfUpE5831rLJP0+AcWjNlw=
-		</data>
-		<key>Frameworks/FirebaseInstallations.framework/FirebaseInstallations_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		WXQUJr75eMRgiVnLGyf8Gr3uLUU=
-		</data>
-		<key>Frameworks/FirebaseInstallations.framework/Info.plist</key>
-		<data>
-		AE8wxP1nQyWXrLla0gR+pgLeX/I=
-		</data>
-		<key>Frameworks/GoogleAppMeasurement.framework/Info.plist</key>
-		<data>
-		QDlkVd93K5bGord4Pafrhdwn26Q=
-		</data>
-		<key>Frameworks/GoogleAppMeasurementIdentitySupport.framework/Info.plist</key>
-		<data>
-		HpVTrSMP/+YhM0dxfFVI8zq46LU=
-		</data>
-		<key>Frameworks/GoogleUtilities.framework/GoogleUtilities_Privacy.bundle/Info.plist</key>
-		<data>
-		AxjkON9Eoy2dgrtZwgT0ZDbom9Q=
-		</data>
-		<key>Frameworks/GoogleUtilities.framework/GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		TrRzpkxcmDwPf9xXhrQKnuRceyI=
-		</data>
-		<key>Frameworks/GoogleUtilities.framework/Info.plist</key>
-		<data>
-		5/RIsBcSw78JhGgxbWMpOMytmp8=
-		</data>
-		<key>Frameworks/nanopb.framework/Info.plist</key>
-		<data>
-		zlHngXYUz/UUf0gS8fPQY+EZWEc=
-		</data>
-		<key>Frameworks/nanopb.framework/nanopb_Privacy.bundle/Info.plist</key>
-		<data>
-		8jU/J4lL42u+tlx/WPpZ4QuKzCM=
-		</data>
-		<key>Frameworks/nanopb.framework/nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		KY5lfwC2TvsgFj4wt7hkMmainbs=
-		</data>
 		<key>Headers/Datasenses.h</key>
 		<data>
 		bSgAp9xgd+8YdanhELGbi75n518=
@@ -96,13 +12,21 @@
 		<data>
 		fnC04sZPRmXZGlUuOrKyYOM76FI=
 		</data>
+		<key>Modules/Datasenses.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		Lwgz1EWFQj0dwe5+j7ubERwlEPM=
+		</data>
+		<key>Modules/Datasenses.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		4o4dSJNxB308O0AJw7aoR/8o834=
+		</data>
 		<key>Modules/Datasenses.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		9QZPO9x4P8SEvA25Wa93wUE6mVk=
+		IfTC2pyPWT+snmXzbB1Iu2iHGkU=
 		</data>
 		<key>Modules/Datasenses.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		9fLgYJQnR6auqDNI5vl5jpwOQcQ=
+		Qk4LxkOcL9HkLca3zc7v2vsG6Vc=
 		</data>
 		<key>Modules/Datasenses.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -110,19 +34,19 @@
 		</data>
 		<key>Modules/Datasenses.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9fLgYJQnR6auqDNI5vl5jpwOQcQ=
+		Qk4LxkOcL9HkLca3zc7v2vsG6Vc=
 		</data>
 		<key>Modules/Datasenses.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7tu7RG+sKzjUtOx1R9t66yzF9nI=
+		Pca4AzPNCEYT0Ca6GMsinv9sby8=
 		</data>
 		<key>Modules/Datasenses.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		9QZPO9x4P8SEvA25Wa93wUE6mVk=
+		IfTC2pyPWT+snmXzbB1Iu2iHGkU=
 		</data>
 		<key>Modules/Datasenses.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Aj7DJxrtH67kTnYbvk66VTYp/Tw=
+		AV/gi9JZ31gks3DpsCr37jDRyP0=
 		</data>
 		<key>Modules/Datasenses.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -130,11 +54,11 @@
 		</data>
 		<key>Modules/Datasenses.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Aj7DJxrtH67kTnYbvk66VTYp/Tw=
+		AV/gi9JZ31gks3DpsCr37jDRyP0=
 		</data>
 		<key>Modules/Datasenses.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8a/1U3HYB87+6b57PvJCq7mNETg=
+		AEWUMzUTkz6ty7pbbRF/MYvroAM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -147,153 +71,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/FBLPromises.framework/FBLPromises_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			uMILYqitUhxAzlShKEtdRdbT877uc7vlU4iThi+vJws=
-			</data>
-		</dict>
-		<key>Frameworks/FBLPromises.framework/FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
-			</data>
-		</dict>
-		<key>Frameworks/FBLPromises.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QC7sSySLZMr3HQ2R5UUR5bhJS9gUR2fKebByZ3vpIDM=
-			</data>
-		</dict>
-		<key>Frameworks/FirebaseAnalytics.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ITXedKiCfL0qEx0JkWnFrLSRAB1Nrh4glociv3gUlgs=
-			</data>
-		</dict>
-		<key>Frameworks/FirebaseCore.framework/FirebaseCore_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MusZe99Fz+gZ2pf07FgpL5GGBa/N2tuzslZS54/+kFo=
-			</data>
-		</dict>
-		<key>Frameworks/FirebaseCore.framework/FirebaseCore_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EeMfX2tg6A69WQFUn85QQ/mvPmg/h0AilFAAtAUwbD8=
-			</data>
-		</dict>
-		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			rX3eAcimT5sfjmoLuEe+x5VO0ZCBBzkHIi+uPQsgtcc=
-			</data>
-		</dict>
-		<key>Frameworks/FirebaseCoreInternal.framework/FirebaseCoreInternal_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mt+RIPJiLm2nwAHAQ2+2EFB6vLcN3ScPDDoNjAmKFqY=
-			</data>
-		</dict>
-		<key>Frameworks/FirebaseCoreInternal.framework/FirebaseCoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			W3/peUI97ePgivwppC8A9ghiddxUioTCl3QjWGPu0+8=
-			</data>
-		</dict>
-		<key>Frameworks/FirebaseCoreInternal.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OOqsacfUXn4DUefWjI4qB3OehBGE/n6HXSMR6NWRTZU=
-			</data>
-		</dict>
-		<key>Frameworks/FirebaseInstallations.framework/FirebaseInstallations_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ttrgTl5wxNZfIodGYpbAuoicy0W4O91haEnv6hdpa7I=
-			</data>
-		</dict>
-		<key>Frameworks/FirebaseInstallations.framework/FirebaseInstallations_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			z7s8T3ambVNpi66R9xEMAPIUjm5vE619MlkpCbwBDlE=
-			</data>
-		</dict>
-		<key>Frameworks/FirebaseInstallations.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ChIvgy9X7SMRpogej0PYfhkbuae/ld6k0cfryXbXv7M=
-			</data>
-		</dict>
-		<key>Frameworks/GoogleAppMeasurement.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			9cwx+HefPX72ez5Yx78X3hnwZfvmiArfnl/rzDCbkkI=
-			</data>
-		</dict>
-		<key>Frameworks/GoogleAppMeasurementIdentitySupport.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HUx/COiHyfyEuIqWddWcnyfliTLoJSkk/KuFg9rCmmY=
-			</data>
-		</dict>
-		<key>Frameworks/GoogleUtilities.framework/GoogleUtilities_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hdkm1M6nDDoiZ+qwrMR1NVt6jIyIEM2nlIKAuUalqLU=
-			</data>
-		</dict>
-		<key>Frameworks/GoogleUtilities.framework/GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jxZCM8XSFfsGzrh4STQCHd3X05qJ15Xla6XIMqsPs/c=
-			</data>
-		</dict>
-		<key>Frameworks/GoogleUtilities.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7kvwVmjS7/HAJA8UY5R6qI5KTrgFsg+lxdI+1UDfod0=
-			</data>
-		</dict>
-		<key>Frameworks/nanopb.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EUCLrUJ8z3vB8EsYKXWRnBwldEDiRGhDmz/+53GAGco=
-			</data>
-		</dict>
-		<key>Frameworks/nanopb.framework/nanopb_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0zoFpZAZAdoJ/QE3IfOHTyPcqBBZg+xFI/qDITNQvtU=
-			</data>
-		</dict>
-		<key>Frameworks/nanopb.framework/nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cpujy9D0WMeM1h7fFzUO2v4ONMqG4xTsZMjLIszSG1Q=
-			</data>
-		</dict>
 		<key>Headers/Datasenses.h</key>
 		<dict>
 			<key>hash2</key>
@@ -301,18 +78,32 @@
 			1g+4gdy6liPn1sdlARDobGri6zLelfHqoetT2lo7ZoI=
 			</data>
 		</dict>
+		<key>Modules/Datasenses.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vvZbK2mUcO5lbsznMa1bxM/9YbvG3lxHLfjZ+5gjN/8=
+			</data>
+		</dict>
+		<key>Modules/Datasenses.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y/K/dcwif2HAzRQ+zSXsikPPKtlQ9okPyVEPKI9K1Us=
+			</data>
+		</dict>
 		<key>Modules/Datasenses.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			axzspsynP7eopxIdgLG/uWpZ3oDyNUc3YJ/deIkT00M=
+			18R57eIMR1ui/BQmHqRsZLo87ZuUfRgrruCybSS1YQ0=
 			</data>
 		</dict>
 		<key>Modules/Datasenses.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ymDJZUUVFLshJrL/66zar73o3tTYAEesAhWW63FswzY=
+			j+/rRE5KgDYTqiddEkQ+1GPq4auj6EXUHrxb+F3bT6w=
 			</data>
 		</dict>
 		<key>Modules/Datasenses.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -326,28 +117,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ymDJZUUVFLshJrL/66zar73o3tTYAEesAhWW63FswzY=
+			j+/rRE5KgDYTqiddEkQ+1GPq4auj6EXUHrxb+F3bT6w=
 			</data>
 		</dict>
 		<key>Modules/Datasenses.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6NvuePQjm6OqsvaBR7QY3aYqDGkXpzeanVKeRMubHYs=
+			VSe674d5DygTDK3G7YQ/F+39xC8sEJnK7/fsUmw7PjY=
 			</data>
 		</dict>
 		<key>Modules/Datasenses.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			axzspsynP7eopxIdgLG/uWpZ3oDyNUc3YJ/deIkT00M=
+			18R57eIMR1ui/BQmHqRsZLo87ZuUfRgrruCybSS1YQ0=
 			</data>
 		</dict>
 		<key>Modules/Datasenses.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i6gFir6PveiZ8Sb/WI4LuhsGgi6J263hZZef9wOZeAE=
+			sFyewyt4qHMiojN8c3Q8vyL0AHI57F6xTq4t1pPdug4=
 			</data>
 		</dict>
 		<key>Modules/Datasenses.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -361,14 +152,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i6gFir6PveiZ8Sb/WI4LuhsGgi6J263hZZef9wOZeAE=
+			sFyewyt4qHMiojN8c3Q8vyL0AHI57F6xTq4t1pPdug4=
 			</data>
 		</dict>
 		<key>Modules/Datasenses.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8xiulbvOP3ZdkMdh4GWSKt51P8WzRxzwFQYiexH6GrE=
+			vwwGR96N9KvfjLepPZXjCA8PvrPaY41KNmLpMZ/P3/4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
