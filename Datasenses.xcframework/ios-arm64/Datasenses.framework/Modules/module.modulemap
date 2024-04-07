@@ -1,6 +1,0 @@
-framework module Datasenses {
-  umbrella header "Datasenses.h"
-  export *
-
-  module * { export * }
-}
