@@ -6,6 +6,7 @@ import CoreTelephony
 @_exported import Datasenses_iOS
 import Foundation
 import SQLite3
+import StoreKit
 import Swift
 import SystemConfiguration
 import UIKit
@@ -92,6 +93,7 @@ extension Datasenses_iOS.DatasensesInstance {
   public func hasOptedOutTracking() -> Swift.Bool
   public func application(_ application: UIKit.UIApplication, didFinishLaunchingWithOptions launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?) -> Swift.Bool
   public func handleUrl(url: Foundation.URL?)
+  public func updatePostbackConversionValue(_ value: Swift.Int)
 }
 public protocol DatasensesType {
   func isValidNestedTypeAndValue() -> Swift.Bool
@@ -162,4 +164,13 @@ extension Swift.Dictionary : Datasenses_iOS.DatasensesType {
   open class func initialize(apiKey: Swift.String, trackAutomaticEvents: Swift.Bool = true, flushInterval: Swift.Double = 60, optOutTrackingByDefault: Swift.Bool = false) -> Datasenses_iOS.DatasensesInstance
   open class func shared() -> Datasenses_iOS.DatasensesInstance
   @objc deinit
+}
+extension UIKit.UIDevice {
+  @_Concurrency.MainActor(unsafe) public static let modelIdentifier: Swift.String
+  @_Concurrency.MainActor(unsafe) public var isSimulator: Swift.Bool {
+    get
+  }
+  @_Concurrency.MainActor(unsafe) public var isJailbroken: Swift.Bool {
+    get
+  }
 }
