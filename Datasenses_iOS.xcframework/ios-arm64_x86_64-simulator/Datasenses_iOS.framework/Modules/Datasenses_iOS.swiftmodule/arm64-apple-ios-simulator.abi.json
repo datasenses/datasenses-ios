@@ -9110,7 +9110,7 @@
       "kind": "StringLiteral",
       "offset": 110,
       "length": 7,
-      "value": "\"0.1.3\""
+      "value": "\"0.1.4\""
     },
     {
       "filePath": "\/Users\/ducnguyen\/WORKS\/datasenses-ios-sdk\/Sources\/Error.swift",
