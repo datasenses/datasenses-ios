@@ -9111,7 +9111,7 @@
       "kind": "StringLiteral",
       "offset": 110,
       "length": 7,
-      "value": "\"0.1.4\""
+      "value": "\"0.1.5\""
     },
     {
       "filePath": "\/Users\/ducnguyen\/WORKS\/datasenses-ios-sdk\/Sources\/Error.swift",
