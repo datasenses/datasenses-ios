@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'Datasenses-iOS'
-    s.version          = '0.1.5'
+    s.version          = '0.3.0'
     s.summary          = 'Datasenses SDK for iOS.'
     s.homepage         = 'https://datasenses.io'
     s.license          = { :type => 'MIT', :file => 'LICENSE.md' }
