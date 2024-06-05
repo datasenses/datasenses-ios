@@ -9110,7 +9110,7 @@
       "kind": "StringLiteral",
       "offset": 110,
       "length": 7,
-      "value": "\"0.1.5\""
+      "value": "\"0.2.0\""
     },
     {
       "filePath": "\/Users\/ducnguyen\/WORKS\/datasenses-ios-sdk\/Sources\/Error.swift",
@@ -9158,13 +9158,13 @@
       "filePath": "\/Users\/ducnguyen\/WORKS\/datasenses-ios-sdk\/Sources\/Network.swift",
       "kind": "StringLiteral",
       "offset": 211,
-      "length": 35,
-      "value": "\"https:\/\/uatevent.datasenses.io\/v1\""
+      "length": 32,
+      "value": "\"https:\/\/event.datasenses.io\/v1\""
     },
     {
       "filePath": "\/Users\/ducnguyen\/WORKS\/datasenses-ios-sdk\/Sources\/Network.swift",
       "kind": "Dictionary",
-      "offset": 4435,
+      "offset": 4432,
       "length": 3,
       "value": "[]"
     },
