@@ -42,6 +42,10 @@ Click Download GoogleService-Info.plist to obtain your Firebase Apple platforms 
 
 Move your config file into the root of your Xcode project. If prompted, select to add the config file to all targets.
 
+### Config SKAdNetwork postback URL
+Config value of `NSAdvertisingAttributionReportEndpoint` to `https://dts.guru/.well-known/skadnetwork/report-attribution/` in `Info.plist` file. 
+See [more](https://developer.apple.com/documentation/bundleresources/information_property_list/nsadvertisingattributionreportendpoint)
+
 ### Initialize Datasenses SDK in your app
 
 Then in your application delegate's `- application:didFinishLaunchingWithOptions:` method, set up the SDK like so:
