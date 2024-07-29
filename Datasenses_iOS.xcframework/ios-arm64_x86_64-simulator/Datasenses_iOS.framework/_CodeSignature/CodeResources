@@ -14,15 +14,15 @@
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Msy9chGITVlgbOrk0voKOnXY3pQ=
+		Fye4a4hPajtHkbhT0l/3WG0oMLQ=
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		oqaQB5GAS3SVuOWBo+3z8QWxUok=
+		ZRi0PVkWdi3PIXikQBubFSoaaTo=
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		5RgvmlAnAXW5h3NIkvxZe4kzzW4=
+		BlSSxLCGLSU5E01oFJ7/6HYSuXE=
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		5RgvmlAnAXW5h3NIkvxZe4kzzW4=
+		BlSSxLCGLSU5E01oFJ7/6HYSuXE=
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -82,21 +82,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rGtKfATWjgb+DZyQdRtI4ID47hOylQRonuxZKsutVPo=
+			VBsBQbw/jXUhojXNJMbXM7T6Mvczp35wwj1mhGz7DqU=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x851bPEAcRGgkZcOQFHcLz+pnsqbP5IqnIFczfqOKqM=
+			XX01fFr1oEWqs3MYcEJLQD0uwa5S77yEoX1V1SgLhlA=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			giky0F5TG1psHBukypz+nsam63IonEUWySzm9wKyi9w=
+			2wOIlk0frOYDQ9EelNlrW46qskYVa5V00forG7hhfiY=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -131,7 +131,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			giky0F5TG1psHBukypz+nsam63IonEUWySzm9wKyi9w=
+			2wOIlk0frOYDQ9EelNlrW46qskYVa5V00forG7hhfiY=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
