@@ -1,6 +1,0 @@
-framework module Datasenses_iOS {
-  umbrella header "Datasenses_iOS.h"
-  export *
-
-  module * { export * }
-}
