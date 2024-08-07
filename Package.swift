@@ -10,7 +10,7 @@ let package = Package(
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
-            name: "datasenses-sdk",
+            name: "",
             targets: ["datasenses-sdk"]),
     ],
     targets: [
@@ -18,7 +18,8 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
             name: "datasenses-sdk",
-            path: "./Datasenses_iOS.xcframework"
+            url: "https://cdn.datasenses.io/Datasenses_iOS.xcframework.zip",
+	    checksum: "99e9ec8951ee3c4479aee456ca69251bcf9b9b405593277ab46dd8dafbccb377"
         ),
         
     ],
