@@ -22,10 +22,6 @@ let package = Package(
             url: "https://cdn.datasenses.io/Datasenses_iOS.xcframework.zip",
             checksum: "99e9ec8951ee3c4479aee456ca69251bcf9b9b405593277ab46dd8dafbccb377"
         ),
-	.packages(
-            name: "Datasenses_iOS",
-            path: "./Datasenses_iOS.xcframework",
-	)
     ],
     swiftLanguageVersions: [.v5]
 )
