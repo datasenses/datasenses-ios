@@ -18,7 +18,7 @@ let package = Package(
 	   name: "datasenses-sdk"
 	),
         .binaryTarget(
-            name: "Datasenses_iOS",
+            name: "datasenses-sdk",
             url: "https://cdn.datasenses.io/Datasenses_iOS.xcframework.zip",
             checksum: "99e9ec8951ee3c4479aee456ca69251bcf9b9b405593277ab46dd8dafbccb377"
         ),
