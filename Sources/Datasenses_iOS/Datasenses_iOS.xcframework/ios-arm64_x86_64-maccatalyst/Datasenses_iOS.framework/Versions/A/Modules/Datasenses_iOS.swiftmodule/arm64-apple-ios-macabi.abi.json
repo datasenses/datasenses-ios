@@ -654,6 +654,205 @@
         ]
       },
       {
+        "kind": "TypeDecl",
+        "name": "DatasensesHelperDelegate",
+        "printedName": "DatasensesHelperDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "getInstallationID",
+            "printedName": "getInstallationID(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.String?, (any Swift.Error)?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(Swift.String?, (any Swift.Error)?)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.String?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "(any Swift.Error)?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Error",
+                            "printedName": "any Swift.Error",
+                            "usr": "s:s5ErrorP"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Datasenses_iOS@objc(pl)DatasensesHelperDelegate(im)getInstallationIDWithCompletion:",
+            "mangledName": "$s14Datasenses_iOS0A14HelperDelegateP17getInstallationID10completionyySSSg_s5Error_pSgtc_tF",
+            "moduleName": "Datasenses_iOS",
+            "genericSig": "<τ_0_0 where τ_0_0 : Datasenses_iOS.DatasensesHelperDelegate>",
+            "sugared_genericSig": "<Self where Self : Datasenses_iOS.DatasensesHelperDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "ObjC"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "appInstanceID",
+            "printedName": "appInstanceID()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Datasenses_iOS@objc(pl)DatasensesHelperDelegate(im)appInstanceID",
+            "mangledName": "$s14Datasenses_iOS0A14HelperDelegateP13appInstanceIDSSSgyF",
+            "moduleName": "Datasenses_iOS",
+            "genericSig": "<τ_0_0 where τ_0_0 : Datasenses_iOS.DatasensesHelperDelegate>",
+            "sugared_genericSig": "<Self where Self : Datasenses_iOS.DatasensesHelperDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "ObjC"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "facebookInstanceID",
+            "printedName": "facebookInstanceID()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Datasenses_iOS@objc(pl)DatasensesHelperDelegate(im)facebookInstanceID",
+            "mangledName": "$s14Datasenses_iOS0A14HelperDelegateP18facebookInstanceIDSSSgyF",
+            "moduleName": "Datasenses_iOS",
+            "genericSig": "<τ_0_0 where τ_0_0 : Datasenses_iOS.DatasensesHelperDelegate>",
+            "sugared_genericSig": "<Self where Self : Datasenses_iOS.DatasensesHelperDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "Optional",
+              "ObjC"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tiktokInstanceID",
+            "printedName": "tiktokInstanceID()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Datasenses_iOS@objc(pl)DatasensesHelperDelegate(im)tiktokInstanceID",
+            "mangledName": "$s14Datasenses_iOS0A14HelperDelegateP16tiktokInstanceIDSSSgyF",
+            "moduleName": "Datasenses_iOS",
+            "genericSig": "<τ_0_0 where τ_0_0 : Datasenses_iOS.DatasensesHelperDelegate>",
+            "sugared_genericSig": "<Self where Self : Datasenses_iOS.DatasensesHelperDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "Optional",
+              "ObjC"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "c:@M@Datasenses_iOS@objc(pl)DatasensesHelperDelegate",
+        "mangledName": "$s14Datasenses_iOS0A14HelperDelegateP",
+        "moduleName": "Datasenses_iOS",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Datasenses_iOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
@@ -1652,6 +1851,234 @@
                 "declKind": "Accessor",
                 "usr": "s:14Datasenses_iOS0A8InstanceC03appC2IDSSSgvM",
                 "mangledName": "$s14Datasenses_iOS0A8InstanceC03appC2IDSSSgvM",
+                "moduleName": "Datasenses_iOS",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "facebookInstanceID",
+            "printedName": "facebookInstanceID",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14Datasenses_iOS0A8InstanceC08facebookC2IDSSSgvp",
+            "mangledName": "$s14Datasenses_iOS0A8InstanceC08facebookC2IDSSSgvp",
+            "moduleName": "Datasenses_iOS",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14Datasenses_iOS0A8InstanceC08facebookC2IDSSSgvg",
+                "mangledName": "$s14Datasenses_iOS0A8InstanceC08facebookC2IDSSSgvg",
+                "moduleName": "Datasenses_iOS",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14Datasenses_iOS0A8InstanceC08facebookC2IDSSSgvs",
+                "mangledName": "$s14Datasenses_iOS0A8InstanceC08facebookC2IDSSSgvs",
+                "moduleName": "Datasenses_iOS",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14Datasenses_iOS0A8InstanceC08facebookC2IDSSSgvM",
+                "mangledName": "$s14Datasenses_iOS0A8InstanceC08facebookC2IDSSSgvM",
+                "moduleName": "Datasenses_iOS",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "tiktokInstanceID",
+            "printedName": "tiktokInstanceID",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14Datasenses_iOS0A8InstanceC06tiktokC2IDSSSgvp",
+            "mangledName": "$s14Datasenses_iOS0A8InstanceC06tiktokC2IDSSSgvp",
+            "moduleName": "Datasenses_iOS",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14Datasenses_iOS0A8InstanceC06tiktokC2IDSSSgvg",
+                "mangledName": "$s14Datasenses_iOS0A8InstanceC06tiktokC2IDSSSgvg",
+                "moduleName": "Datasenses_iOS",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14Datasenses_iOS0A8InstanceC06tiktokC2IDSSSgvs",
+                "mangledName": "$s14Datasenses_iOS0A8InstanceC06tiktokC2IDSSSgvs",
+                "moduleName": "Datasenses_iOS",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14Datasenses_iOS0A8InstanceC06tiktokC2IDSSSgvM",
+                "mangledName": "$s14Datasenses_iOS0A8InstanceC06tiktokC2IDSSSgvM",
                 "moduleName": "Datasenses_iOS",
                 "implicit": true,
                 "isOpen": true,
@@ -3093,121 +3520,6 @@
         ]
       },
       {
-        "kind": "TypeDecl",
-        "name": "DatasensesFirebaseHelperDelegate",
-        "printedName": "DatasensesFirebaseHelperDelegate",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "getInstallationID",
-            "printedName": "getInstallationID(completion:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(Swift.String?, (any Swift.Error)?) -> ()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Tuple",
-                    "printedName": "(Swift.String?, (any Swift.Error)?)",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Optional",
-                        "printedName": "Swift.String?",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "String",
-                            "printedName": "Swift.String",
-                            "usr": "s:SS"
-                          }
-                        ],
-                        "usr": "s:Sq"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Optional",
-                        "printedName": "(any Swift.Error)?",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Error",
-                            "printedName": "any Swift.Error",
-                            "usr": "s:s5ErrorP"
-                          }
-                        ],
-                        "usr": "s:Sq"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14Datasenses_iOS0A22FirebaseHelperDelegateP17getInstallationID10completionyySSSg_s5Error_pSgtc_tF",
-            "mangledName": "$s14Datasenses_iOS0A22FirebaseHelperDelegateP17getInstallationID10completionyySSSg_s5Error_pSgtc_tF",
-            "moduleName": "Datasenses_iOS",
-            "genericSig": "<τ_0_0 where τ_0_0 : Datasenses_iOS.DatasensesFirebaseHelperDelegate>",
-            "sugared_genericSig": "<Self where Self : Datasenses_iOS.DatasensesFirebaseHelperDelegate>",
-            "protocolReq": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "appInstanceID",
-            "printedName": "appInstanceID()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14Datasenses_iOS0A22FirebaseHelperDelegateP13appInstanceIDSSSgyF",
-            "mangledName": "$s14Datasenses_iOS0A22FirebaseHelperDelegateP13appInstanceIDSSSgyF",
-            "moduleName": "Datasenses_iOS",
-            "genericSig": "<τ_0_0 where τ_0_0 : Datasenses_iOS.DatasensesFirebaseHelperDelegate>",
-            "sugared_genericSig": "<Self where Self : Datasenses_iOS.DatasensesFirebaseHelperDelegate>",
-            "protocolReq": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Protocol",
-        "usr": "s:14Datasenses_iOS0A22FirebaseHelperDelegateP",
-        "mangledName": "$s14Datasenses_iOS0A22FirebaseHelperDelegateP",
-        "moduleName": "Datasenses_iOS",
-        "genericSig": "<τ_0_0 : AnyObject>",
-        "sugared_genericSig": "<Self : AnyObject>",
-        "declAttributes": [
-          "AccessControl",
-          "RawDocComment"
-        ]
-      },
-      {
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
@@ -3266,7 +3578,7 @@
           {
             "kind": "Function",
             "name": "initialize",
-            "printedName": "initialize(apiKey:trackAutomaticEvents:flushInterval:optOutTrackingByDefault:firebaseHelper:)",
+            "printedName": "initialize(apiKey:trackAutomaticEvents:flushInterval:optOutTrackingByDefault:datasensesHelper:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3304,21 +3616,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "(any Datasenses_iOS.DatasensesFirebaseHelperDelegate)?",
+                "printedName": "(any Datasenses_iOS.DatasensesHelperDelegate)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "DatasensesFirebaseHelperDelegate",
-                    "printedName": "any Datasenses_iOS.DatasensesFirebaseHelperDelegate",
-                    "usr": "s:14Datasenses_iOS0A22FirebaseHelperDelegateP"
+                    "name": "DatasensesHelperDelegate",
+                    "printedName": "any Datasenses_iOS.DatasensesHelperDelegate",
+                    "usr": "c:@M@Datasenses_iOS@objc(pl)DatasensesHelperDelegate"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:14Datasenses_iOS0A0C10initialize6apiKey20trackAutomaticEvents13flushInterval23optOutTrackingByDefault14firebaseHelperAA0A8InstanceCSS_SbSdSbAA0a8FirebaseQ8Delegate_pSgtFZ",
-            "mangledName": "$s14Datasenses_iOS0A0C10initialize6apiKey20trackAutomaticEvents13flushInterval23optOutTrackingByDefault14firebaseHelperAA0A8InstanceCSS_SbSdSbAA0a8FirebaseQ8Delegate_pSgtFZ",
+            "usr": "s:14Datasenses_iOS0A0C10initialize6apiKey20trackAutomaticEvents13flushInterval23optOutTrackingByDefault16datasensesHelperAA0A8InstanceCSS_SbSdSbAA0aQ8Delegate_pSgtFZ",
+            "mangledName": "$s14Datasenses_iOS0A0C10initialize6apiKey20trackAutomaticEvents13flushInterval23optOutTrackingByDefault16datasensesHelperAA0A8InstanceCSS_SbSdSbAA0aQ8Delegate_pSgtFZ",
             "moduleName": "Datasenses_iOS",
             "static": true,
             "isOpen": true,
@@ -8944,7 +9256,7 @@
       "kind": "StringLiteral",
       "offset": 111,
       "length": 7,
-      "value": "\"0.3.2\""
+      "value": "\"0.3.3\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Error.swift",
@@ -9005,70 +9317,70 @@
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "StringLiteral",
-      "offset": 1136,
+      "offset": 1138,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "StringLiteral",
-      "offset": 1377,
+      "offset": 1379,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "StringLiteral",
-      "offset": 4083,
+      "offset": 4358,
       "length": 17,
       "value": "\"Logging Enabled\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "StringLiteral",
-      "offset": 4160,
+      "offset": 4435,
       "length": 18,
       "value": "\"Logging Disabled\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 3816,
+      "offset": 4091,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 5803,
+      "offset": 6078,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 15276,
+      "offset": 15558,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 18727,
+      "offset": 19009,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 18753,
+      "offset": 19035,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 25148,
+      "offset": 25919,
       "length": 5,
       "value": "false"
     },
@@ -9320,105 +9632,119 @@
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1849,
+      "offset": 1861,
+      "length": 22,
+      "value": "\"facebook_instance_id\""
+    },
+    {
+      "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1919,
+      "length": 20,
+      "value": "\"tiktok_instance_id\""
+    },
+    {
+      "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1964,
       "length": 8,
       "value": "\"locale\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1880,
+      "offset": 1995,
       "length": 12,
       "value": "\"event_name\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1921,
+      "offset": 2036,
       "length": 13,
       "value": "\"customer_id\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1957,
+      "offset": 2072,
       "length": 12,
       "value": "\"event_time\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2001,
+      "offset": 2116,
       "length": 16,
       "value": "\"unix_timestamp\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2046,
+      "offset": 2161,
       "length": 18,
       "value": "\"event_properties\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2097,
+      "offset": 2212,
       "length": 17,
       "value": "\"installation_id\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2161,
+      "offset": 2276,
       "length": 19,
       "value": "\"device_model_code\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2213,
+      "offset": 2328,
       "length": 12,
       "value": "\"device_cpu\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2260,
+      "offset": 2375,
       "length": 20,
       "value": "\"device_color_depth\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2314,
+      "offset": 2429,
       "length": 19,
       "value": "\"device_desity_dpi\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2395,
+      "offset": 2510,
       "length": 14,
       "value": "\"app_launched\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2438,
+      "offset": 2553,
       "length": 13,
       "value": "\"app_updated\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2482,
+      "offset": 2597,
       "length": 15,
       "value": "\"app_installed\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2526,
+      "offset": 2641,
       "length": 13,
       "value": "\"utm_visited\""
     },
@@ -9446,7 +9772,7 @@
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Datasenses.swift",
       "kind": "BooleanLiteral",
-      "offset": 3438,
+      "offset": 4278,
       "length": 5,
       "value": "false"
     },
