@@ -2098,6 +2098,120 @@
           },
           {
             "kind": "Var",
+            "name": "isAppReinstall",
+            "printedName": "isAppReinstall",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14Datasenses_iOS0A8InstanceC14isAppReinstallSSSgvp",
+            "mangledName": "$s14Datasenses_iOS0A8InstanceC14isAppReinstallSSSgvp",
+            "moduleName": "Datasenses_iOS",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14Datasenses_iOS0A8InstanceC14isAppReinstallSSSgvg",
+                "mangledName": "$s14Datasenses_iOS0A8InstanceC14isAppReinstallSSSgvg",
+                "moduleName": "Datasenses_iOS",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14Datasenses_iOS0A8InstanceC14isAppReinstallSSSgvs",
+                "mangledName": "$s14Datasenses_iOS0A8InstanceC14isAppReinstallSSSgvs",
+                "moduleName": "Datasenses_iOS",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14Datasenses_iOS0A8InstanceC14isAppReinstallSSSgvM",
+                "mangledName": "$s14Datasenses_iOS0A8InstanceC14isAppReinstallSSSgvM",
+                "moduleName": "Datasenses_iOS",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "trackAutomaticEventsEnabled",
             "printedName": "trackAutomaticEventsEnabled",
             "children": [
@@ -3578,6 +3692,23 @@
         "kind": "Import",
         "name": "SystemConfiguration",
         "printedName": "SystemConfiguration",
+        "declKind": "Import",
+        "moduleName": "Datasenses_iOS"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Datasenses_iOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Security",
+        "printedName": "Security",
         "declKind": "Import",
         "moduleName": "Datasenses_iOS"
       },
@@ -9578,63 +9709,70 @@
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "StringLiteral",
-      "offset": 2342,
+      "offset": 2148,
+      "length": 20,
+      "value": "\"IsAppReinstallFlag\""
+    },
+    {
+      "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
+      "kind": "StringLiteral",
+      "offset": 2446,
       "length": 29,
       "value": "\"cachedPushNotificationToken\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "StringLiteral",
-      "offset": 4472,
+      "offset": 4576,
       "length": 17,
       "value": "\"Logging Enabled\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "StringLiteral",
-      "offset": 4549,
+      "offset": 4653,
       "length": 18,
       "value": "\"Logging Disabled\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 4205,
+      "offset": 4309,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 6192,
+      "offset": 6296,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 15685,
+      "offset": 16164,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 19136,
+      "offset": 19615,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 19162,
+      "offset": 19641,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 26046,
+      "offset": 26525,
       "length": 5,
       "value": "false"
     },
@@ -9900,112 +10038,119 @@
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1964,
+      "offset": 1972,
+      "length": 14,
+      "value": "\"is_reinstall\""
+    },
+    {
+      "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2011,
       "length": 8,
       "value": "\"locale\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1995,
+      "offset": 2042,
       "length": 12,
       "value": "\"event_name\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2036,
+      "offset": 2083,
       "length": 13,
       "value": "\"customer_id\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2072,
+      "offset": 2119,
       "length": 12,
       "value": "\"event_time\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2116,
+      "offset": 2163,
       "length": 16,
       "value": "\"unix_timestamp\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2161,
+      "offset": 2208,
       "length": 18,
       "value": "\"event_properties\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2212,
+      "offset": 2259,
       "length": 17,
       "value": "\"installation_id\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2276,
+      "offset": 2323,
       "length": 19,
       "value": "\"device_model_code\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2328,
+      "offset": 2375,
       "length": 12,
       "value": "\"device_cpu\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2375,
+      "offset": 2422,
       "length": 20,
       "value": "\"device_color_depth\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2429,
+      "offset": 2476,
       "length": 19,
       "value": "\"device_desity_dpi\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2510,
+      "offset": 2557,
       "length": 14,
       "value": "\"app_launched\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2553,
+      "offset": 2600,
       "length": 13,
       "value": "\"app_updated\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2597,
+      "offset": 2644,
       "length": 15,
       "value": "\"app_installed\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2641,
+      "offset": 2688,
       "length": 13,
       "value": "\"utm_visited\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2693,
+      "offset": 2740,
       "length": 23,
       "value": "\"register_notification\""
     },
