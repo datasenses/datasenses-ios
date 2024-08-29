@@ -93,6 +93,7 @@ extension Datasenses_iOS.DatasensesInstance {
 }
 extension Datasenses_iOS.DatasensesInstance {
   public func track(event: Swift.String, properties: Datasenses_iOS.Properties? = nil)
+  public func registerPushNotification(token: Swift.String?)
   public func time(event: Swift.String)
   public func eventElapsedTime(event: Swift.String) -> Swift.Double
   public func clearTimedEvents()

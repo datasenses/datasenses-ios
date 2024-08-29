@@ -941,6 +941,16 @@
         "moduleName": "Datasenses_iOS"
       },
       {
+        "kind": "Import",
+        "name": "FacebookCore",
+        "printedName": "FacebookCore",
+        "declKind": "Import",
+        "moduleName": "Datasenses_iOS",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "DatasensesDelegate",
         "printedName": "DatasensesDelegate",
@@ -3051,6 +3061,41 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "registerPushNotification",
+            "printedName": "registerPushNotification(token:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14Datasenses_iOS0A8InstanceC24registerPushNotification5tokenySSSg_tF",
+            "mangledName": "$s14Datasenses_iOS0A8InstanceC24registerPushNotification5tokenySSSg_tF",
+            "moduleName": "Datasenses_iOS",
+            "declAttributes": [
+              "AccessControl"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -6483,6 +6528,86 @@
             ],
             "usr": "s:s21_ObjectiveCBridgeableP",
             "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "vDSP_FloatingPointConvertable",
+            "printedName": "vDSP_FloatingPointConvertable",
+            "usr": "s:10Accelerate29vDSP_FloatingPointConvertableP",
+            "mangledName": "$s10Accelerate29vDSP_FloatingPointConvertableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "vDSP_DiscreteFourierTransformable",
+            "printedName": "vDSP_DiscreteFourierTransformable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "DiscreteFourierTransformFunctions",
+                "printedName": "DiscreteFourierTransformFunctions",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DFTDoublePrecisionSplitComplexFunctions",
+                    "printedName": "Accelerate.vDSP.DFTDoublePrecisionSplitComplexFunctions",
+                    "usr": "s:10Accelerate4vDSPO39DFTDoublePrecisionSplitComplexFunctionsV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Accelerate33vDSP_DiscreteFourierTransformableP",
+            "mangledName": "$s10Accelerate33vDSP_DiscreteFourierTransformableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "vDSP_FloatingPointDiscreteFourierTransformable",
+            "printedName": "vDSP_FloatingPointDiscreteFourierTransformable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "DFTFunctions",
+                "printedName": "DFTFunctions",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VectorizableDouble",
+                    "printedName": "Accelerate.vDSP.VectorizableDouble",
+                    "usr": "s:10Accelerate4vDSPO18VectorizableDoubleV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Accelerate46vDSP_FloatingPointDiscreteFourierTransformableP",
+            "mangledName": "$s10Accelerate46vDSP_FloatingPointDiscreteFourierTransformableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "vDSP_FloatingPointBiquadFilterable",
+            "printedName": "vDSP_FloatingPointBiquadFilterable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "BiquadFunctions",
+                "printedName": "BiquadFunctions",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VectorizableDouble",
+                    "printedName": "Accelerate.vDSP.VectorizableDouble",
+                    "usr": "s:10Accelerate4vDSPO18VectorizableDoubleV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Accelerate34vDSP_FloatingPointBiquadFilterableP",
+            "mangledName": "$s10Accelerate34vDSP_FloatingPointBiquadFilterableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "vDSP_FloatingPointGeneratable",
+            "printedName": "vDSP_FloatingPointGeneratable",
+            "usr": "s:10Accelerate29vDSP_FloatingPointGeneratableP",
+            "mangledName": "$s10Accelerate29vDSP_FloatingPointGeneratableP"
           }
         ]
       },
@@ -6987,6 +7112,93 @@
             ],
             "usr": "s:s21_ObjectiveCBridgeableP",
             "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "vDSP_FloatingPointConvertable",
+            "printedName": "vDSP_FloatingPointConvertable",
+            "usr": "s:10Accelerate29vDSP_FloatingPointConvertableP",
+            "mangledName": "$s10Accelerate29vDSP_FloatingPointConvertableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "vDSP_DiscreteFourierTransformable",
+            "printedName": "vDSP_DiscreteFourierTransformable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "DiscreteFourierTransformFunctions",
+                "printedName": "DiscreteFourierTransformFunctions",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DFTSinglePrecisionSplitComplexFunctions",
+                    "printedName": "Accelerate.vDSP.DFTSinglePrecisionSplitComplexFunctions",
+                    "usr": "s:10Accelerate4vDSPO39DFTSinglePrecisionSplitComplexFunctionsV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Accelerate33vDSP_DiscreteFourierTransformableP",
+            "mangledName": "$s10Accelerate33vDSP_DiscreteFourierTransformableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "vDSP_FloatingPointDiscreteFourierTransformable",
+            "printedName": "vDSP_FloatingPointDiscreteFourierTransformable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "DFTFunctions",
+                "printedName": "DFTFunctions",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VectorizableFloat",
+                    "printedName": "Accelerate.vDSP.VectorizableFloat",
+                    "usr": "s:10Accelerate4vDSPO17VectorizableFloatV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Accelerate46vDSP_FloatingPointDiscreteFourierTransformableP",
+            "mangledName": "$s10Accelerate46vDSP_FloatingPointDiscreteFourierTransformableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "vDSP_FloatingPointBiquadFilterable",
+            "printedName": "vDSP_FloatingPointBiquadFilterable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "BiquadFunctions",
+                "printedName": "BiquadFunctions",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VectorizableFloat",
+                    "printedName": "Accelerate.vDSP.VectorizableFloat",
+                    "usr": "s:10Accelerate4vDSPO17VectorizableFloatV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Accelerate34vDSP_FloatingPointBiquadFilterableP",
+            "mangledName": "$s10Accelerate34vDSP_FloatingPointBiquadFilterableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BNNSScalar",
+            "printedName": "BNNSScalar",
+            "usr": "s:10Accelerate10BNNSScalarP",
+            "mangledName": "$s10Accelerate10BNNSScalarP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "vDSP_FloatingPointGeneratable",
+            "printedName": "vDSP_FloatingPointGeneratable",
+            "usr": "s:10Accelerate29vDSP_FloatingPointGeneratableP",
+            "mangledName": "$s10Accelerate29vDSP_FloatingPointGeneratableP"
           }
         ]
       },
@@ -7183,6 +7395,13 @@
             ],
             "usr": "s:s21_ObjectiveCBridgeableP",
             "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BNNSScalar",
+            "printedName": "BNNSScalar",
+            "usr": "s:10Accelerate10BNNSScalarP",
+            "mangledName": "$s10Accelerate10BNNSScalarP"
           }
         ]
       },
@@ -8259,6 +8478,34 @@
             "printedName": "MutableDataProtocol",
             "usr": "s:10Foundation19MutableDataProtocolP",
             "mangledName": "$s10Foundation19MutableDataProtocolP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "AccelerateMutableBuffer",
+            "printedName": "AccelerateMutableBuffer",
+            "usr": "s:10Accelerate0A13MutableBufferP",
+            "mangledName": "$s10Accelerate0A13MutableBufferP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "AccelerateBuffer",
+            "printedName": "AccelerateBuffer",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Accelerate0A6BufferP",
+            "mangledName": "$s10Accelerate0A6BufferP"
           }
         ]
       },
@@ -9317,70 +9564,77 @@
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "StringLiteral",
-      "offset": 1138,
+      "offset": 1178,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "StringLiteral",
-      "offset": 1379,
+      "offset": 1419,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "StringLiteral",
-      "offset": 4358,
+      "offset": 2342,
+      "length": 29,
+      "value": "\"cachedPushNotificationToken\""
+    },
+    {
+      "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
+      "kind": "StringLiteral",
+      "offset": 4472,
       "length": 17,
       "value": "\"Logging Enabled\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "StringLiteral",
-      "offset": 4435,
+      "offset": 4549,
       "length": 18,
       "value": "\"Logging Disabled\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 4091,
+      "offset": 4205,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 6078,
+      "offset": 6192,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 15558,
+      "offset": 15685,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 19009,
+      "offset": 19136,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 19035,
+      "offset": 19162,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 25919,
+      "offset": 26046,
       "length": 5,
       "value": "false"
     },
@@ -9747,6 +10001,13 @@
       "offset": 2641,
       "length": 13,
       "value": "\"utm_visited\""
+    },
+    {
+      "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2693,
+      "length": 23,
+      "value": "\"register_notification\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Datasenses.swift",
