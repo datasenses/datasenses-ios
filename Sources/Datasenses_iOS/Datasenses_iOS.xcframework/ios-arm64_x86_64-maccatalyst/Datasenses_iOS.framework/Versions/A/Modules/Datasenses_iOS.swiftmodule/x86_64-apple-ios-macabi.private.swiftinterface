@@ -30,12 +30,6 @@ import _SwiftConcurrencyShims
   open func deleteUser()
   @objc deinit
 }
-@objc public protocol DatasensesHelperDelegate {
-  @objc func getInstallationID(completion: @escaping (Swift.String?, (any Swift.Error)?) -> Swift.Void)
-  @objc func appInstanceID() -> Swift.String?
-  @objc optional func facebookInstanceID() -> Swift.String?
-  @objc optional func tiktokInstanceID() -> Swift.String?
-}
 public protocol DatasensesDelegate : AnyObject {
   func datasensesWillFlush(_ datasenses: Datasenses_iOS.DatasensesInstance) -> Swift.Bool
 }
@@ -104,7 +98,7 @@ extension Datasenses_iOS.DatasensesInstance {
   public func optInTracking(distinctId: Swift.String? = nil, properties: Datasenses_iOS.Properties? = nil)
   public func hasOptedOutTracking() -> Swift.Bool
   public func application(_ application: UIKit.UIApplication, didFinishLaunchingWithOptions launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?) -> Swift.Bool
-  public func handleUrl(url: Foundation.URL?)
+  public func handleUrl(_ app: UIKit.UIApplication, url: Foundation.URL, options: [UIKit.UIApplication.OpenURLOptionsKey : Any])
   public func updatePostbackConversionValue(_ value: Swift.Int)
 }
 public protocol DatasensesType {
@@ -173,7 +167,7 @@ extension Swift.Dictionary : Datasenses_iOS.DatasensesType {
 }
 @_hasMissingDesignatedInitializers open class Datasenses {
   @discardableResult
-  open class func initialize(apiKey: Swift.String, trackAutomaticEvents: Swift.Bool = true, flushInterval: Swift.Double = 60, optOutTrackingByDefault: Swift.Bool = false, datasensesHelper: (any Datasenses_iOS.DatasensesHelperDelegate)?) -> Datasenses_iOS.DatasensesInstance
+  open class func initialize(apiKey: Swift.String, trackAutomaticEvents: Swift.Bool = true, flushInterval: Swift.Double = 60, optOutTrackingByDefault: Swift.Bool = false, launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?) -> Datasenses_iOS.DatasensesInstance
   open class func shared() -> Datasenses_iOS.DatasensesInstance
   @objc deinit
 }
