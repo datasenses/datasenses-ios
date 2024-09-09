@@ -3050,7 +3050,7 @@
           {
             "kind": "Function",
             "name": "registerPushNotification",
-            "printedName": "registerPushNotification(token:)",
+            "printedName": "registerPushNotification(token:apnToken:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3070,11 +3070,25 @@
                   }
                 ],
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:14Datasenses_iOS0A8InstanceC24registerPushNotification5tokenySSSg_tF",
-            "mangledName": "$s14Datasenses_iOS0A8InstanceC24registerPushNotification5tokenySSSg_tF",
+            "usr": "s:14Datasenses_iOS0A8InstanceC24registerPushNotification5token8apnTokenySSSg_AGtF",
+            "mangledName": "$s14Datasenses_iOS0A8InstanceC24registerPushNotification5token8apnTokenySSSg_AGtF",
             "moduleName": "Datasenses_iOS",
             "declAttributes": [
               "AccessControl"
