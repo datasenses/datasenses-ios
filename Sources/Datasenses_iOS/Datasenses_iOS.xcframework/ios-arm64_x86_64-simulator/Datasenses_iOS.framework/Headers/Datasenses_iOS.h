@@ -14,5 +14,3 @@ FOUNDATION_EXPORT double Datasenses_iOSVersionNumber;
 FOUNDATION_EXPORT const unsigned char Datasenses_iOSVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Datasenses_iOS/PublicHeader.h>
-
-

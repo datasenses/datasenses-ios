@@ -31,6 +31,25 @@ import _SwiftConcurrencyShims
   open func deleteUser()
   @objc deinit
 }
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc(Datasenses) final public class DatasensesObjCWrapper : ObjectiveC.NSObject {
+  @objc(shared) public static var shared: Datasenses_iOS.DatasensesObjCWrapper {
+    @objc get
+  }
+  @objc(initializeWithApiKey:launchOptions:) final public class func initialize(apiKey: Swift.String, launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]? = nil)
+  @objc(initializeWithApiKey:trackAutomaticEvents:flushInterval:optOutTrackingByDefault:launchOptions:) final public class func initialize(apiKey: Swift.String, trackAutomaticEvents: Swift.Bool, flushInterval: Swift.Double, optOutTrackingByDefault: Swift.Bool, launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]? = nil)
+  @objc final public func updatePostbackConversionValue(_ value: Swift.Int)
+  @objc final public func handleUrl(_ app: UIKit.UIApplication, url: Foundation.URL, options: [UIKit.UIApplication.OpenURLOptionsKey : Any]?) -> Swift.Bool
+  @objc final public func application(_ application: UIKit.UIApplication, didFinishLaunchingWithOptions launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?) -> Swift.Bool
+  @objc final public func registerPushNotification(token: Swift.String?, apnToken: Swift.String?)
+  @objc final public func flush(completion: (() -> Swift.Void)? = nil)
+  @objc final public func reset(completion: (() -> Swift.Void)? = nil)
+  @objc(trackEventWithName:properties:) final public func track(event: Swift.String, properties: [Swift.String : Any]?)
+  @objc final public var loggingEnabled: Swift.Bool {
+    @objc get
+    @objc set
+  }
+  @objc deinit
+}
 public protocol DatasensesDelegate : AnyObject {
   func datasensesWillFlush(_ datasenses: Datasenses_iOS.DatasensesInstance) -> Swift.Bool
 }
@@ -99,7 +118,8 @@ extension Datasenses_iOS.DatasensesInstance {
   public func optInTracking(distinctId: Swift.String? = nil, properties: Datasenses_iOS.Properties? = nil)
   public func hasOptedOutTracking() -> Swift.Bool
   public func application(_ application: UIKit.UIApplication, didFinishLaunchingWithOptions launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?) -> Swift.Bool
-  public func handleUrl(_ app: UIKit.UIApplication, url: Foundation.URL, options: [UIKit.UIApplication.OpenURLOptionsKey : Any])
+  @discardableResult
+  public func handleUrl(_ app: UIKit.UIApplication, url: Foundation.URL, options: [UIKit.UIApplication.OpenURLOptionsKey : Any]?) -> Swift.Bool
   public func updatePostbackConversionValue(_ value: Swift.Int)
 }
 public protocol DatasensesType {
@@ -166,10 +186,10 @@ extension Swift.Dictionary : Datasenses_iOS.DatasensesType {
   public func isValidNestedTypeAndValue() -> Swift.Bool
   public func equals(rhs: any Datasenses_iOS.DatasensesType) -> Swift.Bool
 }
-@_hasMissingDesignatedInitializers open class Datasenses {
+@_hasMissingDesignatedInitializers final public class Datasenses {
   @discardableResult
-  open class func initialize(apiKey: Swift.String, trackAutomaticEvents: Swift.Bool = true, flushInterval: Swift.Double = 60, optOutTrackingByDefault: Swift.Bool = false, launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?) -> Datasenses_iOS.DatasensesInstance
-  open class func shared() -> Datasenses_iOS.DatasensesInstance
+  final public class func initialize(apiKey: Swift.String, trackAutomaticEvents: Swift.Bool = true, flushInterval: Swift.Double = 60, optOutTrackingByDefault: Swift.Bool = false, launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?) -> Datasenses_iOS.DatasensesInstance
+  final public class func shared() -> Datasenses_iOS.DatasensesInstance
   @objc deinit
 }
 extension UIKit.UIDevice {
