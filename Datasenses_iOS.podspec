@@ -10,4 +10,5 @@ Pod::Spec.new do |s|
     s.ios.vendored_frameworks = 'Datasenses_iOS.xcframework'
     s.swift_version = '5.0'
     s.framework    = 'CoreTelephony'
+    s.dependency 'FBSDKCoreKit', '~> 17.1.0'
   end
