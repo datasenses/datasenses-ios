@@ -844,7 +844,7 @@
           {
             "kind": "Function",
             "name": "initialize",
-            "printedName": "initialize(apiKey:trackAutomaticEvents:flushInterval:optOutTrackingByDefault:launchOptions:)",
+            "printedName": "initialize(apiKey:trackAutomaticEvents:flushInterval:optOutTrackingByDefault:launchOptions:firebaseOptionsFileName:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -902,14 +902,29 @@
                 ],
                 "hasDefaultArg": true,
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Datasenses_iOS@objc(cs)Datasenses(cm)initializeWithApiKey:trackAutomaticEvents:flushInterval:optOutTrackingByDefault:launchOptions:",
-            "mangledName": "$s14Datasenses_iOS0A11ObjCWrapperC10initialize6apiKey20trackAutomaticEvents13flushInterval23optOutTrackingByDefault13launchOptionsySS_SbSdSbSDySo019UIApplicationLaunchsG0aypGSgtFZ",
+            "usr": "c:@M@Datasenses_iOS@objc(cs)Datasenses(cm)initializeWithApiKey:trackAutomaticEvents:flushInterval:optOutTrackingByDefault:launchOptions:firebaseOptionsFileName:",
+            "mangledName": "$s14Datasenses_iOS0A11ObjCWrapperC10initialize6apiKey20trackAutomaticEvents13flushInterval23optOutTrackingByDefault13launchOptions08firebaseS8FileNameySS_SbSdSbSDySo019UIApplicationLaunchsG0aypGSgSSSgtFZ",
             "moduleName": "Datasenses_iOS",
             "static": true,
-            "objc_name": "initializeWithApiKey:trackAutomaticEvents:flushInterval:optOutTrackingByDefault:launchOptions:",
+            "objc_name": "initializeWithApiKey:trackAutomaticEvents:flushInterval:optOutTrackingByDefault:launchOptions:firebaseOptionsFileName:",
             "declAttributes": [
               "Final",
               "AccessControl",
@@ -4384,7 +4399,7 @@
           {
             "kind": "Function",
             "name": "initialize",
-            "printedName": "initialize(apiKey:trackAutomaticEvents:flushInterval:optOutTrackingByDefault:launchOptions:)",
+            "printedName": "initialize(apiKey:trackAutomaticEvents:flushInterval:optOutTrackingByDefault:launchOptions:firebaseOptionsFileName:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4445,11 +4460,26 @@
                   }
                 ],
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:14Datasenses_iOS0A0C10initialize6apiKey20trackAutomaticEvents13flushInterval23optOutTrackingByDefault13launchOptionsAA0A8InstanceCSS_SbSdSbSDySo019UIApplicationLaunchqE0aypGSgtFZ",
-            "mangledName": "$s14Datasenses_iOS0A0C10initialize6apiKey20trackAutomaticEvents13flushInterval23optOutTrackingByDefault13launchOptionsAA0A8InstanceCSS_SbSdSbSDySo019UIApplicationLaunchqE0aypGSgtFZ",
+            "usr": "s:14Datasenses_iOS0A0C10initialize6apiKey20trackAutomaticEvents13flushInterval23optOutTrackingByDefault13launchOptions08firebaseQ8FileNameAA0A8InstanceCSS_SbSdSbSDySo019UIApplicationLaunchqE0aypGSgSSSgtFZ",
+            "mangledName": "$s14Datasenses_iOS0A0C10initialize6apiKey20trackAutomaticEvents13flushInterval23optOutTrackingByDefault13launchOptions08firebaseQ8FileNameAA0A8InstanceCSS_SbSdSbSDySo019UIApplicationLaunchqE0aypGSgSSSgtFZ",
             "moduleName": "Datasenses_iOS",
             "static": true,
             "declAttributes": [
@@ -11303,7 +11333,7 @@
       "kind": "StringLiteral",
       "offset": 111,
       "length": 7,
-      "value": "\"0.3.3\""
+      "value": "\"0.3.4\""
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Error.swift",
@@ -11420,28 +11450,28 @@
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 16714,
+      "offset": 16852,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 20165,
+      "offset": 20303,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 20191,
+      "offset": 20329,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/DatasensesInstance.swift",
       "kind": "BooleanLiteral",
-      "offset": 26231,
+      "offset": 26339,
       "length": 5,
       "value": "false"
     },
@@ -11826,28 +11856,28 @@
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Datasenses.swift",
       "kind": "BooleanLiteral",
-      "offset": 1244,
+      "offset": 1246,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Datasenses.swift",
       "kind": "IntegerLiteral",
-      "offset": 1305,
+      "offset": 1309,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Datasenses.swift",
       "kind": "BooleanLiteral",
-      "offset": 1372,
+      "offset": 1378,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/hoang.ho\/Workspace\/datateam\/datasenses.io\/datasenses-ios-sdk\/Sources\/Datasenses.swift",
       "kind": "BooleanLiteral",
-      "offset": 3857,
+      "offset": 4078,
       "length": 5,
       "value": "false"
     },
