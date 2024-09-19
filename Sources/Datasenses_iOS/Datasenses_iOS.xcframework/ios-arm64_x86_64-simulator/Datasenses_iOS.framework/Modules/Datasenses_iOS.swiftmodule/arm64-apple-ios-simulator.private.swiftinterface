@@ -36,7 +36,7 @@ import _SwiftConcurrencyShims
     @objc get
   }
   @objc(initializeWithApiKey:launchOptions:) final public class func initialize(apiKey: Swift.String, launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]? = nil)
-  @objc(initializeWithApiKey:trackAutomaticEvents:flushInterval:optOutTrackingByDefault:launchOptions:) final public class func initialize(apiKey: Swift.String, trackAutomaticEvents: Swift.Bool, flushInterval: Swift.Double, optOutTrackingByDefault: Swift.Bool, launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]? = nil)
+  @objc(initializeWithApiKey:trackAutomaticEvents:flushInterval:optOutTrackingByDefault:launchOptions:firebaseOptionsFileName:) final public class func initialize(apiKey: Swift.String, trackAutomaticEvents: Swift.Bool, flushInterval: Swift.Double, optOutTrackingByDefault: Swift.Bool, launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]? = nil, firebaseOptionsFileName: Swift.String? = nil)
   @objc final public func updatePostbackConversionValue(_ value: Swift.Int)
   @objc final public func handleUrl(_ app: UIKit.UIApplication, url: Foundation.URL, options: [UIKit.UIApplication.OpenURLOptionsKey : Any]?) -> Swift.Bool
   @objc final public func application(_ application: UIKit.UIApplication, didFinishLaunchingWithOptions launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?) -> Swift.Bool
@@ -188,7 +188,7 @@ extension Swift.Dictionary : Datasenses_iOS.DatasensesType {
 }
 @_hasMissingDesignatedInitializers final public class Datasenses {
   @discardableResult
-  final public class func initialize(apiKey: Swift.String, trackAutomaticEvents: Swift.Bool = true, flushInterval: Swift.Double = 60, optOutTrackingByDefault: Swift.Bool = false, launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?) -> Datasenses_iOS.DatasensesInstance
+  final public class func initialize(apiKey: Swift.String, trackAutomaticEvents: Swift.Bool = true, flushInterval: Swift.Double = 60, optOutTrackingByDefault: Swift.Bool = false, launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?, firebaseOptionsFileName: Swift.String? = nil) -> Datasenses_iOS.DatasensesInstance
   final public class func shared() -> Datasenses_iOS.DatasensesInstance
   @objc deinit
 }

@@ -311,7 +311,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Datasenses *
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 + (void)initializeWithApiKey:(NSString * _Nonnull)apiKey launchOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions;
-+ (void)initializeWithApiKey:(NSString * _Nonnull)apiKey trackAutomaticEvents:(BOOL)trackAutomaticEvents flushInterval:(double)flushInterval optOutTrackingByDefault:(BOOL)optOutTrackingByDefault launchOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions;
++ (void)initializeWithApiKey:(NSString * _Nonnull)apiKey trackAutomaticEvents:(BOOL)trackAutomaticEvents flushInterval:(double)flushInterval optOutTrackingByDefault:(BOOL)optOutTrackingByDefault launchOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions firebaseOptionsFileName:(NSString * _Nullable)firebaseOptionsFileName;
 - (void)updatePostbackConversionValue:(NSInteger)value;
 - (BOOL)handleUrl:(UIApplication * _Nonnull)app url:(NSURL * _Nonnull)url options:(NSDictionary<UIApplicationOpenURLOptionsKey, id> * _Nullable)options SWIFT_WARN_UNUSED_RESULT;
 - (BOOL)application:(UIApplication * _Nonnull)application didFinishLaunchingWithOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions SWIFT_WARN_UNUSED_RESULT;
@@ -649,7 +649,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Datasenses *
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 + (void)initializeWithApiKey:(NSString * _Nonnull)apiKey launchOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions;
-+ (void)initializeWithApiKey:(NSString * _Nonnull)apiKey trackAutomaticEvents:(BOOL)trackAutomaticEvents flushInterval:(double)flushInterval optOutTrackingByDefault:(BOOL)optOutTrackingByDefault launchOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions;
++ (void)initializeWithApiKey:(NSString * _Nonnull)apiKey trackAutomaticEvents:(BOOL)trackAutomaticEvents flushInterval:(double)flushInterval optOutTrackingByDefault:(BOOL)optOutTrackingByDefault launchOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions firebaseOptionsFileName:(NSString * _Nullable)firebaseOptionsFileName;
 - (void)updatePostbackConversionValue:(NSInteger)value;
 - (BOOL)handleUrl:(UIApplication * _Nonnull)app url:(NSURL * _Nonnull)url options:(NSDictionary<UIApplicationOpenURLOptionsKey, id> * _Nullable)options SWIFT_WARN_UNUSED_RESULT;
 - (BOOL)application:(UIApplication * _Nonnull)application didFinishLaunchingWithOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions SWIFT_WARN_UNUSED_RESULT;
