@@ -122,6 +122,9 @@ extension Datasenses_iOS.DatasensesInstance {
   public func handleUrl(_ app: UIKit.UIApplication, url: Foundation.URL, options: [UIKit.UIApplication.OpenURLOptionsKey : Any]?) -> Swift.Bool
   public func updatePostbackConversionValue(_ value: Swift.Int)
 }
+extension Swift.Dictionary {
+  public func compactMapKeys<T>(_ transform: ((Key) throws -> T?)) rethrows -> [T : Value] where T : Swift.Hashable
+}
 public protocol DatasensesType {
   func isValidNestedTypeAndValue() -> Swift.Bool
   func equals(rhs: any Datasenses_iOS.DatasensesType) -> Swift.Bool
