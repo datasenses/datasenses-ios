@@ -33,21 +33,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K7CrE7oN7qmzfOqcjDY3TJQUcuP85E6A+i8gaLEWqRU=
+			GiYyIDCcn+VnNcGam5GRzDUXpCAuSCzhQsUvCwfeR7o=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/Project/x86_64-apple-ios-macabi.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OWP7nR9hMPUWtVjwLQkNs4pRMqwz2hxyvXbMKjCLYy0=
+			DamyEc3au2+4DGtM4IFGPRaksGGObNk1lB4AZ/wuyGU=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+XgEkD9avnyyjQDNSVYuHdlNURkS9K04jU8BrUrungg=
+			AxldTfp9ovCVrUaDgWiEMYF2JsAESE4gVbVYk4sNPeQ=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
@@ -75,14 +75,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ckZN6IJ02V76abRGNvbTcxWV/YN1kENglB+rVoifKl8=
+			wtrho7NJsX+qRDol1IngwDYfK+5lLBhv/c3WzZ+Vja8=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+XgEkD9avnyyjQDNSVYuHdlNURkS9K04jU8BrUrungg=
+			AxldTfp9ovCVrUaDgWiEMYF2JsAESE4gVbVYk4sNPeQ=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
@@ -110,7 +110,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mZnz17jfG8zD60c/f8ZK8Bp8+d/lcL5HYXbpfnjtLlo=
+			dz9mM2pblgmaA/ydcP7jYBog3FZRWf/uK/yYN/OPFzs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

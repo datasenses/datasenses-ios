@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		J+CpDGCGLErHfi5sUai5xsmsMPQ=
+		VGfSCO8FO0/OwyPkcsbQ9PoDad8=
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		6Ltr6i4g2i2KHefEbPKaDAyWsqI=
+		0ck6dd4uZ3tufeQOBKvYbcvmk6M=
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		i6D27gMBZ/vgzjdhujzi8lk3Y50=
+		u5T46fea51SZzEX6c2grBGMnrlE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -69,14 +69,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8i6Um4f2oh3ra7KGVTMDGZUImI6Douh85+s/nHycpCA=
+			ds9Rz90D0ZCK6fom9mSaZrmeZlkMby39vhenSJBJ6xE=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			brrcAuiHQRm33b3DAiMDr4dma/AYXBr4VLiJYTiY6RU=
+			EZ+UE5WPnXZhfRzvJMiQ2/jkWNNlBphRc9TfUq08Moo=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -104,7 +104,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n41VBSi1DB0I+cGCan2NVA493fxjCzjl+5qqk+k8+yE=
+			T/ifeVvsO7q/MN5CoUzgOykCUcAHfo7CrT0WWjTj4tc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
