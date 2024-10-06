@@ -18,19 +18,19 @@
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		DV/GuWNKHAgtLaPy3+FN0NQUCpg=
+		yxPIf7J9YPjgbHJZ4Y8oJ+loNlg=
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		dZ4VRB3pilgY2xjyyXlVXuV6BNE=
+		pbtmtXizti4bTUO3FwzxzoM9j34=
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		0ck6dd4uZ3tufeQOBKvYbcvmk6M=
+		aQ20cO9/ivAlFdn9hZwDsasOQcA=
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		+WRspVfyv6XP5Yerit1wm9d6kFc=
+		haKVBbIv697ocCqrUf8b9L9Do3g=
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,19 +38,19 @@
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+WRspVfyv6XP5Yerit1wm9d6kFc=
+		haKVBbIv697ocCqrUf8b9L9Do3g=
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TuUYYLxG9ai0Iu05dqPuqMbGoFU=
+		tCd8cFuMW16g0guZ4HG7FzKzaLU=
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		0ck6dd4uZ3tufeQOBKvYbcvmk6M=
+		aQ20cO9/ivAlFdn9hZwDsasOQcA=
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		9zvY2U/rdYLORSq32DEe1G70lRo=
+		8aIYQ5Vu/2wiyPN8RxYD4yc19kk=
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9zvY2U/rdYLORSq32DEe1G70lRo=
+		8aIYQ5Vu/2wiyPN8RxYD4yc19kk=
 		</data>
 		<key>Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		mAm6fH+L1AU7GDK7XISopYJqChI=
+		GuR2rJRm2fYDOhEx45CMj1gj2fs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -93,28 +93,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aDHZ1qliOIK6RthNvpI82tcBdEvp/JLKAJu13IM5rzg=
+			XHJl7rP+9gW1HuCQirrZypR8l/c5R97ya9rv1e5fE74=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2gq0u0fqAsD+zmJfMl0tTdYRu80cGNI1f+HziD2C0EE=
+			YouPdYTUvJsrDrVrKbzsI1z/PJgXiisW5eYS3VqP6co=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EZ+UE5WPnXZhfRzvJMiQ2/jkWNNlBphRc9TfUq08Moo=
+			xhG5SQJnS3TfXfOTPaOPF9XhTHWsgFFw1nnyHRXECwU=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h+4xm0b4ZeoRPCZImRaRHC7hqaBt3WmzcEbFs18jlgE=
+			zWPLGeqqAShhMbKGvPGxIFwx7YHvWqJZh+toPYPM2x8=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -128,28 +128,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h+4xm0b4ZeoRPCZImRaRHC7hqaBt3WmzcEbFs18jlgE=
+			zWPLGeqqAShhMbKGvPGxIFwx7YHvWqJZh+toPYPM2x8=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q1UqLhfkp3FDSiP3k8zeojdbduFBwkWaG+Y6hsXKyHw=
+			SaWnU36WJ5zXcKFdhBYk/1zklUsZ0PZhhOfMOXWy8ao=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EZ+UE5WPnXZhfRzvJMiQ2/jkWNNlBphRc9TfUq08Moo=
+			xhG5SQJnS3TfXfOTPaOPF9XhTHWsgFFw1nnyHRXECwU=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8CDHXlqfPXqLi+uT25xAkAk/l4XatByK0b424XtWzXA=
+			li1k60Jf6NSr4ykkcwazNGSrgC/ypPqdiIFEMPsa2og=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -163,14 +163,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8CDHXlqfPXqLi+uT25xAkAk/l4XatByK0b424XtWzXA=
+			li1k60Jf6NSr4ykkcwazNGSrgC/ypPqdiIFEMPsa2og=
 			</data>
 		</dict>
 		<key>Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			egNeXWWdHSSrXAK00OPw1fcCFYTLUkW/jc1jHcLnU+I=
+			djjyGlNPnaV3RjLSMIj/9XXiQh4cvfVUisYkEkCYG1E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

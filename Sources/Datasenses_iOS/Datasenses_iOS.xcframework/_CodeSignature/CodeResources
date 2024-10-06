@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/Datasenses_iOS.framework/Datasenses_iOS</key>
 		<data>
-		sNr1D071halExyIyHSgcf+Vm1vg=
+		4gtM3oIx218rxNDlVlFavDv4Ln4=
 		</data>
 		<key>ios-arm64/Datasenses_iOS.framework/Headers/Datasenses_iOS-Swift.h</key>
 		<data>
@@ -22,15 +22,15 @@
 		</data>
 		<key>ios-arm64/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		VGfSCO8FO0/OwyPkcsbQ9PoDad8=
+		gcVpUTo6zcJW2YJtE72koqHuhG0=
 		</data>
 		<key>ios-arm64/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		0ck6dd4uZ3tufeQOBKvYbcvmk6M=
+		aQ20cO9/ivAlFdn9hZwDsasOQcA=
 		</data>
 		<key>ios-arm64/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		yRTvYzm1apoA4aDg7aXVJSLOBVI=
+		Qano/ze3stZcTg4ewd55wbjpV/k=
 		</data>
 		<key>ios-arm64/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>ios-arm64/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		yRTvYzm1apoA4aDg7aXVJSLOBVI=
+		Qano/ze3stZcTg4ewd55wbjpV/k=
 		</data>
 		<key>ios-arm64/Datasenses_iOS.framework/Modules/module.modulemap</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>ios-arm64/Datasenses_iOS.framework/_CodeSignature/CodeResources</key>
 		<data>
-		SaB7rsFS0mnZ6ibHUDuskv/iCKk=
+		S70YBaClwCTGmL8LcLqAbo+ns9E=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Datasenses_iOS</key>
 		<data>
-		FVKCVOCphS30npP5yI6aDOYbmlM=
+		S8MbVZydNxu2VM3vTkaxWQD7HPI=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Headers/Datasenses_iOS-Swift.h</key>
 		<data>
@@ -66,19 +66,19 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/Datasenses_iOS.swiftmodule/Project/arm64-apple-ios-macabi.swiftsourceinfo</key>
 		<data>
-		4yDPbYIdIpu6Rxin1/J3KkIHxtQ=
+		BPMBhy2DAzhc17SsDgqp4P9RhUk=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/Datasenses_iOS.swiftmodule/Project/x86_64-apple-ios-macabi.swiftsourceinfo</key>
 		<data>
-		j+Y2PcSk/3HjB81vxDlMazQc+KY=
+		lVkRw283LrmjSkXidvTLsdYi6Hk=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
 		<data>
-		0b+wixnY1fge1MFma96rwIFS/ew=
+		ibUq7G9hpgnQCxXl1m+1P2nWvLg=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<data>
-		dd55dTHdnNh5E07qwGpGQ0CL3N0=
+		Eo39vwhj9HwNXXTC5lsecsG6Ui8=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<data>
@@ -86,15 +86,15 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<data>
-		dd55dTHdnNh5E07qwGpGQ0CL3N0=
+		Eo39vwhj9HwNXXTC5lsecsG6Ui8=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<data>
-		0b+wixnY1fge1MFma96rwIFS/ew=
+		ibUq7G9hpgnQCxXl1m+1P2nWvLg=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<data>
-		OTAMvjY2BJtAlJDTf+4BDIsry9Y=
+		duiIyFtHzrP+va053CcH6UocB6U=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<data>
-		OTAMvjY2BJtAlJDTf+4BDIsry9Y=
+		duiIyFtHzrP+va053CcH6UocB6U=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/module.modulemap</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/_CodeSignature/CodeResources</key>
 		<data>
-		K4joPcyNfNcpL2kii5JmRFFHdqY=
+		OMhsd32vleVImDDseeDt/YwUUg4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Datasenses_iOS</key>
 		<data>
-		5RLUj1NIetqhiifKZXcfRHXtPwg=
+		AsdyTQ6qv1BIC5e8IFLvXu+tpCs=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Headers/Datasenses_iOS-Swift.h</key>
 		<data>
@@ -138,19 +138,19 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		DV/GuWNKHAgtLaPy3+FN0NQUCpg=
+		yxPIf7J9YPjgbHJZ4Y8oJ+loNlg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		dZ4VRB3pilgY2xjyyXlVXuV6BNE=
+		pbtmtXizti4bTUO3FwzxzoM9j34=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		0ck6dd4uZ3tufeQOBKvYbcvmk6M=
+		aQ20cO9/ivAlFdn9hZwDsasOQcA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		+WRspVfyv6XP5Yerit1wm9d6kFc=
+		haKVBbIv697ocCqrUf8b9L9Do3g=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -158,15 +158,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+WRspVfyv6XP5Yerit1wm9d6kFc=
+		haKVBbIv697ocCqrUf8b9L9Do3g=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		0ck6dd4uZ3tufeQOBKvYbcvmk6M=
+		aQ20cO9/ivAlFdn9hZwDsasOQcA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		9zvY2U/rdYLORSq32DEe1G70lRo=
+		8aIYQ5Vu/2wiyPN8RxYD4yc19kk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -174,7 +174,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9zvY2U/rdYLORSq32DEe1G70lRo=
+		8aIYQ5Vu/2wiyPN8RxYD4yc19kk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/module.modulemap</key>
 		<data>
@@ -186,7 +186,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/_CodeSignature/CodeResources</key>
 		<data>
-		PUVhRNNx7uUw2VVBDDVN3ZebnUw=
+		GSJ8ttqMGH0W+7hK9Ik+dDt81hU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -195,11 +195,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sNr1D071halExyIyHSgcf+Vm1vg=
+			4gtM3oIx218rxNDlVlFavDv4Ln4=
 			</data>
 			<key>hash2</key>
 			<data>
-			XOChxabt2MURc9FXTkNroMXKEw2gPRP24vZGw7M37FU=
+			suOeHizTSulaihSGpoAwpyH8q9YW7mf2ZUFYq68ABWw=
 			</data>
 		</dict>
 		<key>ios-arm64/Datasenses_iOS.framework/Headers/Datasenses_iOS-Swift.h</key>
@@ -239,33 +239,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VGfSCO8FO0/OwyPkcsbQ9PoDad8=
+			gcVpUTo6zcJW2YJtE72koqHuhG0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ds9Rz90D0ZCK6fom9mSaZrmeZlkMby39vhenSJBJ6xE=
+			1V6v+xwAPf28oDvif3YGWmViV255+i/SupL6+DtUk2I=
 			</data>
 		</dict>
 		<key>ios-arm64/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0ck6dd4uZ3tufeQOBKvYbcvmk6M=
+			aQ20cO9/ivAlFdn9hZwDsasOQcA=
 			</data>
 			<key>hash2</key>
 			<data>
-			EZ+UE5WPnXZhfRzvJMiQ2/jkWNNlBphRc9TfUq08Moo=
+			xhG5SQJnS3TfXfOTPaOPF9XhTHWsgFFw1nnyHRXECwU=
 			</data>
 		</dict>
 		<key>ios-arm64/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yRTvYzm1apoA4aDg7aXVJSLOBVI=
+			Qano/ze3stZcTg4ewd55wbjpV/k=
 			</data>
 			<key>hash2</key>
 			<data>
-			96/JEwDu23iiGNG1Ur8I51L5cEezXjA3o4ppGrUp6Gs=
+			RDu39S9HdkejoPDNTcas1kmCee825a6CU2HM+Aof49c=
 			</data>
 		</dict>
 		<key>ios-arm64/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -283,11 +283,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yRTvYzm1apoA4aDg7aXVJSLOBVI=
+			Qano/ze3stZcTg4ewd55wbjpV/k=
 			</data>
 			<key>hash2</key>
 			<data>
-			96/JEwDu23iiGNG1Ur8I51L5cEezXjA3o4ppGrUp6Gs=
+			RDu39S9HdkejoPDNTcas1kmCee825a6CU2HM+Aof49c=
 			</data>
 		</dict>
 		<key>ios-arm64/Datasenses_iOS.framework/Modules/module.modulemap</key>
@@ -316,11 +316,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SaB7rsFS0mnZ6ibHUDuskv/iCKk=
+			S70YBaClwCTGmL8LcLqAbo+ns9E=
 			</data>
 			<key>hash2</key>
 			<data>
-			WWmoXTGTcyFrdbuVIH7M8eOA9kyv2gC0Mk1rCRNap2Y=
+			PNwUQK/zFqQC1vHCkYKjK/MO1l+33ykkqjtM5t+t6vo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Datasenses_iOS</key>
@@ -347,11 +347,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FVKCVOCphS30npP5yI6aDOYbmlM=
+			S8MbVZydNxu2VM3vTkaxWQD7HPI=
 			</data>
 			<key>hash2</key>
 			<data>
-			QbqDmbKRXs72xDslAE8Sw4mhY1RNdrPLVmHJ380Jy30=
+			0/yOwNR/RTjU5HFlY7CPMwflcdrIeFNIQVRfRkF1GJ0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Headers/Datasenses_iOS-Swift.h</key>
@@ -380,44 +380,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4yDPbYIdIpu6Rxin1/J3KkIHxtQ=
+			BPMBhy2DAzhc17SsDgqp4P9RhUk=
 			</data>
 			<key>hash2</key>
 			<data>
-			GiYyIDCcn+VnNcGam5GRzDUXpCAuSCzhQsUvCwfeR7o=
+			afUrCq6x+zeSas4BWUpZrwSk/F6rSME+ek4+yFq4a8Y=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/Datasenses_iOS.swiftmodule/Project/x86_64-apple-ios-macabi.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j+Y2PcSk/3HjB81vxDlMazQc+KY=
+			lVkRw283LrmjSkXidvTLsdYi6Hk=
 			</data>
 			<key>hash2</key>
 			<data>
-			DamyEc3au2+4DGtM4IFGPRaksGGObNk1lB4AZ/wuyGU=
+			BngH6wpAiCILRfFMEIJ/WgHn5TFl97QD0x9tKi6+mNw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0b+wixnY1fge1MFma96rwIFS/ew=
+			ibUq7G9hpgnQCxXl1m+1P2nWvLg=
 			</data>
 			<key>hash2</key>
 			<data>
-			AxldTfp9ovCVrUaDgWiEMYF2JsAESE4gVbVYk4sNPeQ=
+			6GkTuqn6fcv4cijDlh91AsYmmXERZaDgBtEBsj0SKGs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dd55dTHdnNh5E07qwGpGQ0CL3N0=
+			Eo39vwhj9HwNXXTC5lsecsG6Ui8=
 			</data>
 			<key>hash2</key>
 			<data>
-			r0CgENaG2+H5HPlzRGfeBMVoKSHlzMj6Fy0fmiGUwmU=
+			TY70wmwRAJQf8x/ddLrdlQRRyOwFkLsoMjYI3ImL/fk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -435,33 +435,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dd55dTHdnNh5E07qwGpGQ0CL3N0=
+			Eo39vwhj9HwNXXTC5lsecsG6Ui8=
 			</data>
 			<key>hash2</key>
 			<data>
-			r0CgENaG2+H5HPlzRGfeBMVoKSHlzMj6Fy0fmiGUwmU=
+			TY70wmwRAJQf8x/ddLrdlQRRyOwFkLsoMjYI3ImL/fk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0b+wixnY1fge1MFma96rwIFS/ew=
+			ibUq7G9hpgnQCxXl1m+1P2nWvLg=
 			</data>
 			<key>hash2</key>
 			<data>
-			AxldTfp9ovCVrUaDgWiEMYF2JsAESE4gVbVYk4sNPeQ=
+			6GkTuqn6fcv4cijDlh91AsYmmXERZaDgBtEBsj0SKGs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OTAMvjY2BJtAlJDTf+4BDIsry9Y=
+			duiIyFtHzrP+va053CcH6UocB6U=
 			</data>
 			<key>hash2</key>
 			<data>
-			UufUYJUq5aFm144riOFiqUSpPyebzctgSw0muQOoRVY=
+			c/G7fOEX0NNMb3p56foVFze7tHCGtkanRP2qbsC2Emc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -479,11 +479,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OTAMvjY2BJtAlJDTf+4BDIsry9Y=
+			duiIyFtHzrP+va053CcH6UocB6U=
 			</data>
 			<key>hash2</key>
 			<data>
-			UufUYJUq5aFm144riOFiqUSpPyebzctgSw0muQOoRVY=
+			c/G7fOEX0NNMb3p56foVFze7tHCGtkanRP2qbsC2Emc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/A/Modules/module.modulemap</key>
@@ -523,11 +523,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			K4joPcyNfNcpL2kii5JmRFFHdqY=
+			OMhsd32vleVImDDseeDt/YwUUg4=
 			</data>
 			<key>hash2</key>
 			<data>
-			nmDSd4KwD9vv+tOp6P2c/Yq5119XjCbuaUsfyWbs42Y=
+			3TfU5dsJUykTOjFOyvzb2TN/SnIuvx2T1m99wq8UHvI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/Datasenses_iOS.framework/Versions/Current</key>
@@ -539,11 +539,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5RLUj1NIetqhiifKZXcfRHXtPwg=
+			AsdyTQ6qv1BIC5e8IFLvXu+tpCs=
 			</data>
 			<key>hash2</key>
 			<data>
-			PmJhwZaAuKiKMP01ovNjNIj56CQ+oTNzC+bA+mAL0EU=
+			WVuPKxkpAFuRYXpLsunvFCN+pFblnq5Pd/KSHEuAfis=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Headers/Datasenses_iOS-Swift.h</key>
@@ -583,44 +583,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DV/GuWNKHAgtLaPy3+FN0NQUCpg=
+			yxPIf7J9YPjgbHJZ4Y8oJ+loNlg=
 			</data>
 			<key>hash2</key>
 			<data>
-			aDHZ1qliOIK6RthNvpI82tcBdEvp/JLKAJu13IM5rzg=
+			XHJl7rP+9gW1HuCQirrZypR8l/c5R97ya9rv1e5fE74=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dZ4VRB3pilgY2xjyyXlVXuV6BNE=
+			pbtmtXizti4bTUO3FwzxzoM9j34=
 			</data>
 			<key>hash2</key>
 			<data>
-			2gq0u0fqAsD+zmJfMl0tTdYRu80cGNI1f+HziD2C0EE=
+			YouPdYTUvJsrDrVrKbzsI1z/PJgXiisW5eYS3VqP6co=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0ck6dd4uZ3tufeQOBKvYbcvmk6M=
+			aQ20cO9/ivAlFdn9hZwDsasOQcA=
 			</data>
 			<key>hash2</key>
 			<data>
-			EZ+UE5WPnXZhfRzvJMiQ2/jkWNNlBphRc9TfUq08Moo=
+			xhG5SQJnS3TfXfOTPaOPF9XhTHWsgFFw1nnyHRXECwU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+WRspVfyv6XP5Yerit1wm9d6kFc=
+			haKVBbIv697ocCqrUf8b9L9Do3g=
 			</data>
 			<key>hash2</key>
 			<data>
-			h+4xm0b4ZeoRPCZImRaRHC7hqaBt3WmzcEbFs18jlgE=
+			zWPLGeqqAShhMbKGvPGxIFwx7YHvWqJZh+toPYPM2x8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -638,33 +638,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+WRspVfyv6XP5Yerit1wm9d6kFc=
+			haKVBbIv697ocCqrUf8b9L9Do3g=
 			</data>
 			<key>hash2</key>
 			<data>
-			h+4xm0b4ZeoRPCZImRaRHC7hqaBt3WmzcEbFs18jlgE=
+			zWPLGeqqAShhMbKGvPGxIFwx7YHvWqJZh+toPYPM2x8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0ck6dd4uZ3tufeQOBKvYbcvmk6M=
+			aQ20cO9/ivAlFdn9hZwDsasOQcA=
 			</data>
 			<key>hash2</key>
 			<data>
-			EZ+UE5WPnXZhfRzvJMiQ2/jkWNNlBphRc9TfUq08Moo=
+			xhG5SQJnS3TfXfOTPaOPF9XhTHWsgFFw1nnyHRXECwU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9zvY2U/rdYLORSq32DEe1G70lRo=
+			8aIYQ5Vu/2wiyPN8RxYD4yc19kk=
 			</data>
 			<key>hash2</key>
 			<data>
-			8CDHXlqfPXqLi+uT25xAkAk/l4XatByK0b424XtWzXA=
+			li1k60Jf6NSr4ykkcwazNGSrgC/ypPqdiIFEMPsa2og=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/Datasenses_iOS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -682,11 +682,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9zvY2U/rdYLORSq32DEe1G70lRo=
+			8aIYQ5Vu/2wiyPN8RxYD4yc19kk=
 			</data>
 			<key>hash2</key>
 			<data>
-			8CDHXlqfPXqLi+uT25xAkAk/l4XatByK0b424XtWzXA=
+			li1k60Jf6NSr4ykkcwazNGSrgC/ypPqdiIFEMPsa2og=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Datasenses_iOS.framework/Modules/module.modulemap</key>
@@ -715,11 +715,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PUVhRNNx7uUw2VVBDDVN3ZebnUw=
+			GSJ8ttqMGH0W+7hK9Ik+dDt81hU=
 			</data>
 			<key>hash2</key>
 			<data>
-			k/ByWhn0mC23+sl3X+k8C5/I0qPjloMIC8s+GLoEzno=
+			wRqeyHZP8SP2gMp+OWyWg2/fYwG78qf7b4tPK1dDo/8=
 			</data>
 		</dict>
 	</dict>

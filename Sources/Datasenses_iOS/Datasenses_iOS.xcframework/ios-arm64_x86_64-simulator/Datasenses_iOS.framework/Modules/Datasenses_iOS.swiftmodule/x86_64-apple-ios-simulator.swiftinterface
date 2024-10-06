@@ -66,6 +66,8 @@ public typealias Properties = [Swift.String : any Datasenses_iOS.DatasensesType]
   open var facebookInstanceID: Swift.String?
   open var tiktokInstanceID: Swift.String?
   open var isAppReinstall: Swift.String?
+  open var isTrackFirebaseEvent: Swift.Bool
+  open var isTrackFacebookEvent: Swift.Bool
   open var trackAutomaticEventsEnabled: Swift.Bool
   open var flushInterval: Swift.Double {
     get
